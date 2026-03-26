@@ -38,9 +38,9 @@
         "netlifyDist": "webpack --env=prod"
     },
     "devDependencies": {
-        "@babylonjs/core": "^7.8.1",
+        "@babylonjs/core": "^9.0.0",
         "ts-loader": "^9.2.6",
-        "typescript": "^5.4.5",
+        "typescript": "^5.9.3",
         "webpack": "^5.58.1",
         "webpack-cli": "^4.9.0",
         "webpack-dev-server": "^4.3.1"
